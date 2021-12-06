@@ -27,6 +27,8 @@ I'm Ahmad A. Rashwaan, Fresh Graduate Back-end Node.js Web Developer. I graduate
 
 ## Get in touch :coffee:
 
-I ocassionally blog about coding, life and religion on [linkedin], And of course GitHub you're already on (Recursion).
+I ocassionally blog about coding, productivity, life and religion on (linkedin) 🖤
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmad-a-rashwaan/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AhmedAllien)
+And of course GitHub you're already on (Recursion) 😜
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmad-a-rashwaan/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AhmedAllien)
