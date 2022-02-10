@@ -19,8 +19,6 @@ I'm Ahmad A. Rashwaan, Fresh Graduate Back-end Node.js Web Developer. I graduate
 * Bootstrap
 * git
 
-![Back-end developer – Node.js](https://www.erasmuslifebudapest.com/wp-content/uploads/2018/11/node-js-main.jpg)
-
 ## Projects
 
 #### [Graduation project](https://github.com/AhmedAllien/Image-processing-Tumor-Segmentation-)
