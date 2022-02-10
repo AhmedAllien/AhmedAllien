@@ -9,15 +9,17 @@
 
 ## About me
 
-I'm Ahmad A. Rashwaan, Fresh Graduate Back-end Node.js Web Developer. I graduated from Faculty of Engineering Ain Shams University.
+I'm Ahmad A. Rashwaan, Junior Softwar Engineer at the great MasterMicro. I graduated from Faculty of Engineering Ain Shams University.
 
 #### Skills:
 
-* Node JS
-* MongoDB
-* JS / HTML / CSS
-* Bootstrap
+
+* Java/C++/Python
+* MongoDB / Sqllite
+* JS / HTML / CSS / bootstrap 
+* doxygen
 * git
+* Gradle
 
 ![Back-end developer – Node.js](https://www.erasmuslifebudapest.com/wp-content/uploads/2018/11/node-js-main.jpg)
 
