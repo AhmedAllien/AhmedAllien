@@ -7,19 +7,15 @@
   <img src="https://profile-counter.glitch.me/AhmedAllien/count.svg" />
 </p>
 
-## About me
+## Introduction
 
-I'm Ahmad A. Rashwaan, Fresh Graduate Back-end Node.js Web Developer. I graduated from Faculty of Engineering Ain Shams University.
+Hi there! My name is Ahmad Ali Rashwaan and I am a software engineer with a passion for problem-solving and learning new technologies.
 
-#### Skills:
+I hold a Bachelor's degree in Electrical Engineering, Computer and Systems Section from Ain Shams University and have worked as a software engineer at Master Micro. I am skilled in languages such as C, C++, Python, and Java, as well as frameworks such as Qt and tools such as Git and Github.
 
-* Node JS
-* MongoDB
-* JS / HTML / CSS
-* Bootstrap
-* git
+I have completed coursework in data science, artificial intelligence, and image processing, and have completed projects in areas such as digital design, automation, and data analysis.
 
-![Back-end developer – Node.js](https://www.erasmuslifebudapest.com/wp-content/uploads/2018/11/node-js-main.jpg)
+I am always looking for new opportunities to learn and grow as a software engineer, and I am excited to share my work and collaborate with others on Github. Thank you for visiting my profile!
 
 ## Projects
 
