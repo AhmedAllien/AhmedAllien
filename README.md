@@ -11,9 +11,11 @@
 
 Hi there! My name is Ahmad Ali Rashwaan and I am a software engineer with a passion for problem-solving and learning new technologies.
 
-I hold a Bachelor's degree in Electrical Engineering, Computer and Systems Section from Ain Shams University and have worked as a software engineer at Master Micro. I am skilled in languages such as C, C++, Python, and Java, as well as frameworks such as Qt and tools such as Git and Github.
+As a highly motivated and well-educated software engineer with a strong foundation in electrical engineering and computer systems, I am eager to find a position where I can continue to grow and learn. My experience at Master Micro Company has allowed me to develop my problem-solving skills and work effectively in a team environment.
 
-I have completed coursework in data science, artificial intelligence, and image processing, and have completed projects in areas such as digital design, automation, and data analysis.
+I have a bachelor's degree in Electrical Engineering, Computer and Systems Section from Ain Shams University and am proficient in a range of programming languages and frameworks, including C++, Java, and Python. I am also familiar with software development best practices, including agile methodologies and version control.
+
+I am seeking a technically challenging and rewarding software engineering role where I can use my skills and dedication to make a positive impact. Thank you for considering my profile.
 
 I am always looking for new opportunities to learn and grow as a software engineer, and I am excited to share my work and collaborate with others on Github. Thank you for visiting my profile!
 
